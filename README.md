@@ -1,1 +1,1 @@
-# Kalkulator Py
+# Kalkulator in terminal
