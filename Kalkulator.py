@@ -47,7 +47,7 @@ def fazga():
     print("7. Pembagian Bulat")
     print("8. Keluar")
 
-    xyz = input("\nMasukkan pilihan (Angka) : ")
+    xyz = raw_input("\nMasukkan pilihan (Angka) : ")
 
     if xyz == '1':
         faz = int(input("\nMasukkan angka pertama : "))
