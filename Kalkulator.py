@@ -12,7 +12,7 @@ def fazga():
     print("##   ##  ##     ## ##       ##   ##  ##     ## ##       ##     ##    ##    ##     ## ##    ##     ##           ##")    
     print("##    ## ##     ## ######## ##    ##  #######  ######## ##     ##    ##     #######  ##     ##    ##           ##")
     print("\n\t\t\tCoded by : Angga Surya Pardana (github.com/EvCf1703)")
-    print("\033[91m\t\t\tHighly Perfection by : M.Fazri Nizar (github.com/Anon6372098)")
+
     print("\033[93m\t\t\tTeam : D4RK SYST3M F41LUR3 S33K3R (github.com/DSFS-org)")
     time.sleep(2)
     
@@ -106,7 +106,7 @@ def fazga():
         fazga()
         
     elif xyz == '8':
-        print("\033[92m\nJumpa Lagi Gan :)")
+        print("\033[92m\nbye !")
         time.sleep(2)
         print ("\n" * 100)
         exit
